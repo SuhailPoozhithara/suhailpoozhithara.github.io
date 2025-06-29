@@ -15,7 +15,7 @@
   <a href="https://linkedin.com/in/suhailpoozhithara">🔗 LinkedIn</a>
 </p>
 
----
+----
 
 I'm a results-driven Web Developer with **6+ years of experience** in building scalable, secure, and high-performance web applications. I specialize in **ASP.NET Core**, **MVC**, **C#**, and **SQL Server**, with hands-on expertise in integrating RESTful APIs and developing backend logic for enterprise applications.
 
