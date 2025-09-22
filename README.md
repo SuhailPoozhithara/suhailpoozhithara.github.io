@@ -8,7 +8,7 @@
 
 <h1 align="center">👋 Hi, I'm Suhail P</h1>
 
-<h3 align="center">.NET Developer | AZ-204 Certified | Open to Opportunities in Dubai/UAE</h3>
+<h3 align="center">.NET Developer | AZ-204 Certified | Open to International Opportunities</h3>
 
 <p align="center">
   <a href="mailto:suhailthu@gmail.com">📧 Email</a> • 
@@ -26,10 +26,18 @@ I'm a results-driven Web Developer with **6+ years of experience** in building s
 
 ---
 
-## 💼 Current Role
+## 💼 Current Status
 
-🔹 **Software Engineer @ eMudhra**  
-Working on **emSigner**, a leading digital signature workflow platform used across industries for secure document management.
+🔹 Immediate Joiner
+Currently open to new opportunities in software engineering and eager to bring my expertise in secure digital solutions to new challenges.
+
+---
+
+💼 Previous Role
+
+🔹 Software Engineer @ eMudhra
+Contributed to emSigner, a leading digital signature solution, enhancing secure document workflows across industries for compliance and operational efficiency.
+Last Working Day: July 18, 2025
 
 ---
 
