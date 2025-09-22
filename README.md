@@ -28,7 +28,7 @@ I'm a results-driven Web Developer with **6+ years of experience** in building s
 
 ## 💼 Current Status
 
-🔹 Immediate Joiner
+🔹 Immediate Joiner.
 Currently open to new opportunities in software engineering and eager to bring my expertise in secure digital solutions to new challenges.
 
 ---
